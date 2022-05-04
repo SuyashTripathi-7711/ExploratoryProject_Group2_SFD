@@ -1,0 +1,58 @@
+/* *{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+} */
+
+.bmd h1{
+    margin-top: 1rem;
+    text-align: center;
+}
+.case1{
+    position: relative;
+    font-size: 3.5rem;
+    left: -6rem;
+    text-align: center;
+}
+.bmd img{
+    display: flex;
+    margin: auto;
+}
+
+.sample_img{
+    height: 20rem;
+    width: 50rem;
+}
+
+#Si{
+    text-align: center;
+}
+.number_inputs{
+    position: relative;
+    left: 6rem;
+}
+
+.res{
+    text-align: center;
+    position: relative;
+    left: 0rem;
+}
+
+.bmd input{
+    border: transparent;
+    border-bottom: 1px solid blue;
+    outline: none;
+}
+
+.bmd input[type=text]:focus {
+    border: transparent;
+    background-color: aliceblue;
+  }
+
+.Graphs{
+    display: flex;
+}
+
+.Graphs #Graph1{
+    position: relative;    
+}
